@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "QuietRiot.aternos.me:29154",
+    "port": 29154,
     "version": "",
     "try-creative": false
   },
